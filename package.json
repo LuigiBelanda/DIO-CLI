@@ -1,0 +1,22 @@
+{
+  "name": "dio-cli",
+  "version": "1.0.0",
+  "description": "Criando uma ferramenta com CLI / Desenvolvendo ferramentas de linha de comando",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiBelanda/DIO-CLI.git"
+  },
+  "author": "Luigi Belanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiBelanda/DIO-CLI/issues"
+  },
+  "homepage": "https://github.com/LuigiBelanda/DIO-CLI#readme"
+}
