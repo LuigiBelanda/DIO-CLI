@@ -27,4 +27,4 @@ Por exemplo:
 <br>
 
 <h2>📜 Projeto</h2>
-<p>Esse projeto foi feito com base na segunda parte do curso de <code>Introdução ao Node.js com Express</code>, onde aprendemos a o que é uma CLI e como criar uma com Node.js, da plataforma <a href="https://web.dio.me/home">Digital Innovation One</a></p>
+<p>Esse projeto foi feito com base na segunda parte do curso de <code>Introdução ao Node.js com Express</code>, onde aprendemos o que é uma CLI e como criar uma com Node.js, da plataforma <a href="https://web.dio.me/home">Digital Innovation One</a></p>
