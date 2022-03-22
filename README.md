@@ -1,6 +1,8 @@
-<center> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> </center>
-
-<h1 align="center"> CLI (Busca de arquivos) </h1>
+<h1 align="center">
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> 
+  <br>
+  CLI (Busca de arquivos)
+</h1>
 <h3 align="center">Criando uma ferramenta com CLI / Desenvolvendo ferramentas de linha de comando</h3>
 
 <br>
