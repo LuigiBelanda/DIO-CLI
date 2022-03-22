@@ -1,5 +1,5 @@
 {
-  "name": "dio-cli",
+  "name": "search-file-cli-dio",
   "version": "1.0.0",
   "description": "Criando uma ferramenta com CLI / Desenvolvendo ferramentas de linha de comando",
   "preferGlobal": true,

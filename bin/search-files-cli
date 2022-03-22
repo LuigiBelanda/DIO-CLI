@@ -1,11 +1,22 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 const fs = require("fs");
 const { join } = require("path");
 
+// process.argv = comando que vem do terminal
+
+/*
+console.log("ETAPA 1:", process.argv);
+console.log("ETAPA 2:", process.argv.splice(2));
+console.log("ETAPA 3:", process.argv.splice(2, process.argv.length - 1));
+console.log("ETAPA 4:", process.argv.splice(2, process.argv.length - 1).join());
+*/
+
 const fileName = process.argv.splice(2, process.argv.length - 1).join();
+//console.log("File name:", fileName);
 
 function searchFiles(filter, startPath = ".") {
   const files = fs.readdirSync(startPath);
+  // console.log("FILES: ",files)
 
   files.map((filePath) => {
     const fullFilePath = join(startPath, filePath);
